@@ -85,8 +85,7 @@ jobs:
 
       # 5. 获取自定义域名
       - name: Retrieve custom domain
-        # id: fetch-domain
-        id: "Zaire"
+        id: fetch-domain
         run: |
           customDomain=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
           https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/pages \
@@ -105,8 +104,7 @@ jobs:
           fi
 
           cat > config.toml << EOL
-          # baseURL = "https://$domain"
-          baseURL = "https://Zaire"
+          baseURL = "https://$domain"
           languageCode = "zh-cn"
           title = "${{ github.repository_owner }}'s Space"
           theme = "PaperMod"
