@@ -3,8 +3,8 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches: [ main ]
-  schedule:
-    - cron: '0 2 * * *'  # UTC 每天2点
+  # schedule:
+  #  - cron: '0 2 * * *'  # UTC 每天2点
   workflow_dispatch:
 
 permissions:
