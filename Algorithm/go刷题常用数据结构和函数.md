@@ -86,42 +86,11 @@ sort.Strings([]string{})
 // 进行反转
 sort.Reverse()
 ```
-自定义比较器
+自定义比较器`sort.Search`,通过二分法，找到满足条件（即函数返回值为true）的最小的索引
 ```go
-package main
-
-import (
-	"fmt"
-	"sort"
-)
-
-type Person struct {
-	Name string
-	Age  int
-}
-
-// 通过实现 sort.Interface 来自定义排序
-type ByAge []Person
-
-func (a ByAge) Len() int           { return len(a) }
-func (a ByAge) Less(i, j int) bool { return a[i].Age < a[j].Age } // 按年龄升序排序
-func (a ByAge) Swap(i, j int)      { a[i], a[j] = a[j], a[i] }
-
-func main() {
-	people := []Person{
-		{"Alice", 30},
-		{"Bob", 25},
-		{"Charlie", 35},
-	}
-
-	// 使用自定义排序
-	sort.Sort(ByAge(people))
-
-	// 输出排序后的结果
-	for _, p := range people {
-		fmt.Println(p.Name, p.Age)
-	}
-}
+index := sort.Search(n, func(i int) bool {
+	// ...
+})
 ```
 
 ### math
