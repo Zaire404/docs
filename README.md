@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/Zaire404//docs"/>
-    <img src="https://badgen.net/badge/last-commit/2025-02-14 14:33:54"/>
+    <img src="https://badgen.net/badge/last-commit/2025-02-14 14:34:27"/>
     <img src="https://badgen.net/github/forks/Zaire404//docs"/>
     <img src="https://badgen.net/github/stars/Zaire404//docs"/>
     <img src="https://badgen.net/github/watchers/Zaire404//docs"/>
@@ -22,8 +22,9 @@
 </details>
             
 <details open>
-<summary>golang	[1篇]</summary>
+<summary>golang	[2篇]</summary>
 
+- 2025-02-14 [go 性能优化](https://github.com/Zaire404/docs/issues/2) 
 - 2025-02-14 [go 写题常用数据结构和函数](https://github.com/Zaire404/docs/issues/1) 
 
 
