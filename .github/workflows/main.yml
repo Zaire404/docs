@@ -30,6 +30,10 @@ jobs:
         git checkout main
         git add .
         git commit -m "Update from Github Action"
+        
+    - name: Pull latest changes
+      run: git pull origin main
+      
     - name: push change
       env:
         USERNAME: ${{ secrets.GIT_USERNAME }}
