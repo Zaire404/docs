@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/Zaire404//docs"/>
-    <img src="https://badgen.net/badge/last-commit/2025-07-24 03:21:01"/>
+    <img src="https://badgen.net/badge/last-commit/2025-10-10 08:03:22"/>
     <img src="https://badgen.net/github/forks/Zaire404//docs"/>
     <img src="https://badgen.net/github/stars/Zaire404//docs"/>
     <img src="https://badgen.net/github/watchers/Zaire404//docs"/>
@@ -13,8 +13,9 @@
 </summary>  
 
 <details open>
-<summary>blog	[7篇]</summary>
+<summary>blog	[8篇]</summary>
 
+- 2025-10-10 [C++20 协程入门教程](https://github.com/Zaire404/docs/issues/13) 
 - 2025-04-07 [一生一芯预学习](https://github.com/Zaire404/docs/issues/10) 
 - 2025-03-02 [Wisckey 键值分离优化](https://github.com/Zaire404/docs/issues/7) 
 - 2025-02-20 [Badger Compact部分详解](https://github.com/Zaire404/docs/issues/6) 
@@ -27,8 +28,9 @@
 </details>
             
 <details open>
-<summary>C/C++	[1篇]</summary>
+<summary>C/C++	[2篇]</summary>
 
+- 2025-10-10 [C++20 协程入门教程](https://github.com/Zaire404/docs/issues/13) 
 - 2025-04-07 [一生一芯预学习](https://github.com/Zaire404/docs/issues/10) 
 
 
