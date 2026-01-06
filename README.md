@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/Zaire404//docs"/>
-    <img src="https://badgen.net/badge/last-commit/2025-10-10 08:03:22"/>
+    <img src="https://badgen.net/badge/last-commit/2026-01-06 05:45:20"/>
     <img src="https://badgen.net/github/forks/Zaire404//docs"/>
     <img src="https://badgen.net/github/stars/Zaire404//docs"/>
     <img src="https://badgen.net/github/watchers/Zaire404//docs"/>
@@ -13,8 +13,9 @@
 </summary>  
 
 <details open>
-<summary>blog	[8篇]</summary>
+<summary>blog	[9篇]</summary>
 
+- 2026-01-06 [uv安装triton](https://github.com/Zaire404/docs/issues/14) 
 - 2025-10-10 [C++20 协程入门教程](https://github.com/Zaire404/docs/issues/13) 
 - 2025-04-07 [一生一芯预学习](https://github.com/Zaire404/docs/issues/10) 
 - 2025-03-02 [Wisckey 键值分离优化](https://github.com/Zaire404/docs/issues/7) 
@@ -60,6 +61,22 @@
 
 - 2025-03-02 [Wisckey 键值分离优化](https://github.com/Zaire404/docs/issues/7) 
 - 2025-02-20 [Badger Compact部分详解](https://github.com/Zaire404/docs/issues/6) 
+
+
+</details>
+            
+<details open>
+<summary>python	[1篇]</summary>
+
+- 2026-01-06 [uv安装triton](https://github.com/Zaire404/docs/issues/14) 
+
+
+</details>
+            
+<details open>
+<summary>triton	[1篇]</summary>
+
+- 2026-01-06 [uv安装triton](https://github.com/Zaire404/docs/issues/14) 
 
 
 </details>
