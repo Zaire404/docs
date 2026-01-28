@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/Zaire404//docs"/>
-    <img src="https://badgen.net/badge/last-commit/2026-01-27 12:39:12"/>
+    <img src="https://badgen.net/badge/last-commit/2026-01-28 08:13:30"/>
     <img src="https://badgen.net/github/forks/Zaire404//docs"/>
     <img src="https://badgen.net/github/stars/Zaire404//docs"/>
     <img src="https://badgen.net/github/watchers/Zaire404//docs"/>
