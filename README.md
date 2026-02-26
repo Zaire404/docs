@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/Zaire404//docs"/>
-    <img src="https://badgen.net/badge/last-commit/2026-02-23 10:14:18"/>
+    <img src="https://badgen.net/badge/last-commit/2026-02-26 06:10:33"/>
     <img src="https://badgen.net/github/forks/Zaire404//docs"/>
     <img src="https://badgen.net/github/stars/Zaire404//docs"/>
     <img src="https://badgen.net/github/watchers/Zaire404//docs"/>
@@ -49,9 +49,25 @@
 </details>
             
 <details open>
+<summary>gpu	[1篇]</summary>
+
+- 2026-02-19 [NVIDIA GPU 架构演进](https://github.com/Zaire404/docs/issues/29) 
+
+
+</details>
+            
+<details open>
 <summary>linux	[1篇]</summary>
 
 - 2025-02-14 [Vim 常用操作](https://github.com/Zaire404/docs/issues/3) 
+
+
+</details>
+            
+<details open>
+<summary>llm	[1篇]</summary>
+
+- 2026-02-15 [LLM模型目录里都有啥](https://github.com/Zaire404/docs/issues/28) 
 
 
 </details>
