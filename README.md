@@ -1,7 +1,7 @@
 
 <p align='center'>
     <img src="https://badgen.net/github/issues/Zaire404//docs"/>
-    <img src="https://badgen.net/badge/last-commit/2026-02-26 06:10:33"/>
+    <img src="https://badgen.net/badge/last-commit/2026-02-26 06:11:03"/>
     <img src="https://badgen.net/github/forks/Zaire404//docs"/>
     <img src="https://badgen.net/github/stars/Zaire404//docs"/>
     <img src="https://badgen.net/github/watchers/Zaire404//docs"/>
@@ -29,8 +29,11 @@
 </details>
             
 <details open>
-<summary>C/C++	[2篇]</summary>
+<summary>C/C++	[5篇]</summary>
 
+- 2026-02-12 [从零开始实现一个LLM推理引擎(二)：Tensor](https://github.com/Zaire404/docs/issues/27) 
+- 2026-02-11 [从零开始实现一个LLM推理引擎(二)：Buffer](https://github.com/Zaire404/docs/issues/26) 
+- 2026-02-11 [从零开始实现一个LLM推理引擎(一)：Allocator](https://github.com/Zaire404/docs/issues/25) 
 - 2025-10-10 [C++20 协程入门教程](https://github.com/Zaire404/docs/issues/13) 
 - 2025-04-07 [一生一芯预学习](https://github.com/Zaire404/docs/issues/10) 
 
@@ -57,6 +60,16 @@
 </details>
             
 <details open>
+<summary>inference	[3篇]</summary>
+
+- 2026-02-12 [从零开始实现一个LLM推理引擎(二)：Tensor](https://github.com/Zaire404/docs/issues/27) 
+- 2026-02-11 [从零开始实现一个LLM推理引擎(二)：Buffer](https://github.com/Zaire404/docs/issues/26) 
+- 2026-02-11 [从零开始实现一个LLM推理引擎(一)：Allocator](https://github.com/Zaire404/docs/issues/25) 
+
+
+</details>
+            
+<details open>
 <summary>linux	[1篇]</summary>
 
 - 2025-02-14 [Vim 常用操作](https://github.com/Zaire404/docs/issues/3) 
@@ -65,9 +78,12 @@
 </details>
             
 <details open>
-<summary>llm	[1篇]</summary>
+<summary>llm	[4篇]</summary>
 
 - 2026-02-15 [LLM模型目录里都有啥](https://github.com/Zaire404/docs/issues/28) 
+- 2026-02-12 [从零开始实现一个LLM推理引擎(二)：Tensor](https://github.com/Zaire404/docs/issues/27) 
+- 2026-02-11 [从零开始实现一个LLM推理引擎(二)：Buffer](https://github.com/Zaire404/docs/issues/26) 
+- 2026-02-11 [从零开始实现一个LLM推理引擎(一)：Allocator](https://github.com/Zaire404/docs/issues/25) 
 
 
 </details>
